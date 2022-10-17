@@ -2,4 +2,5 @@ Source: https://learn.microsoft.com/en-us/training/modules/interact-with-data-bl
 
 dotnet commands:
   - Create new project using blazorserver template: dotnet new blazorserver -o ProjectName -f net6.0
-  - Create new razor component: dotnet new razorcomponent -n ComponentName -o Pages -f net6.0
+  - Create new razor component: dotnet new razorcomponent -n ComponentName -o Pages
+  - Create new gitignore: dotnet new gitignore
